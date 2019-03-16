@@ -9,9 +9,6 @@
 	// The commands
 	$commands = array(
 		// 'echo $PWD',
-    'git fetch',
-		'git log -3',
-    'git status',
 		'git pull',
 		'git status'
 	);
