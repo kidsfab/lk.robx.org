@@ -9,8 +9,10 @@
 	// The commands
 	$commands = array(
 		// 'echo $PWD',
+    'git fetch',
 		'git log -3',
-		'git pull origin master',
+    'git status',
+		'git pull master',
 		'git status'
 	);
 	// Run the commands for output
