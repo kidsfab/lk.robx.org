@@ -9,7 +9,7 @@
 	// The commands
 	$commands = array(
 		// 'echo $PWD',
-		// 'whoami',
+		'git log -3',
 		'git pull origin master',
 		'git status'
 	);
