@@ -12,7 +12,7 @@
     'git fetch',
 		'git log -3',
     'git status',
-		'git pull master',
+		'git pull',
 		'git status'
 	);
 	// Run the commands for output
